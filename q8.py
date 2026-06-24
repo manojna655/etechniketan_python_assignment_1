@@ -1,0 +1,3 @@
+# Find the length of a tuple (10, 20, 30, 40, 50) 
+a=(10, 20, 30, 40, 50)
+print(len(a))
